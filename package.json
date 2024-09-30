@@ -1,5 +1,5 @@
 {
-  "name": "@totofk/line-reac-native",
+  "name": "@totofk/line-react-native",
   "description": "React Native Line wrapper",
   "author": "totofk <toonlola@gmail.com>",
   "contributors": [
@@ -11,7 +11,7 @@
   ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "homepage": "https://github.com/xmartlabs/react-native-line#readme",
   "keywords": [
     "react-native",

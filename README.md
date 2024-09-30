@@ -1,3 +1,5 @@
+<p align="center"> Originated by https://github.com/xmartlabs/react-native-line </p>
+
 # ![React Native LINE](/assets/github-banner.png)
 
 <p align="center">
